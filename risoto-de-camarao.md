@@ -1,5 +1,7 @@
 # Receita de Risoto de Camarão
 
+![Risoto de Camarão](/risoto-de-camarao.jpg)
+
 #### Ingredientes
 - 400 g de camarão cinza limpo
 - 3 xícaras (chá) de arroz branco
