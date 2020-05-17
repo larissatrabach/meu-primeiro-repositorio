@@ -1,5 +1,7 @@
 # Receita de Risoto de Camarão
 
+Receita deliciosa e fácil de fazer!
+
 ![Risoto de Camarão](/risoto-de-camarao.jpg)
 
 #### Ingredientes
